@@ -1,0 +1,32 @@
+C:\Users\viole\OneDrive\Работен плот\Desislava-11d-9\Desislava-11d-9\bin\Debug\Desislava-11d-9.exe.config
+C:\Users\viole\OneDrive\Работен плот\Desislava-11d-9\Desislava-11d-9\bin\Debug\Desislava-11d-9.exe
+C:\Users\viole\OneDrive\Работен плот\Desislava-11d-9\Desislava-11d-9\bin\Debug\Desislava-11d-9.pdb
+C:\Users\viole\OneDrive\Работен плот\Desislava-11d-9\Desislava-11d-9\bin\Debug\EntityFramework.dll
+C:\Users\viole\OneDrive\Работен плот\Desislava-11d-9\Desislava-11d-9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\viole\OneDrive\Работен плот\Desislava-11d-9\Desislava-11d-9\bin\Debug\EntityFramework.xml
+C:\Users\viole\OneDrive\Работен плот\Desislava-11d-9\Desislava-11d-9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\viole\OneDrive\Работен плот\Desislava-11d-9\Desislava-11d-9\obj\Debug\Desislava-11d-9.csproj.AssemblyReference.cache
+C:\Users\viole\OneDrive\Работен плот\Desislava-11d-9\Desislava-11d-9\obj\Debug\Desislava-11d-9.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\OneDrive\Работен плот\Desislava-11d-9\Desislava-11d-9\obj\Debug\Desislava-11d-9.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Работен плот\Desislava-11d-9\Desislava-11d-9\obj\Debug\Desislava-11d-9.csproj.CopyComplete
+C:\Users\viole\OneDrive\Работен плот\Desislava-11d-9\Desislava-11d-9\obj\Debug\Desislava-11d-9.exe
+C:\Users\viole\OneDrive\Работен плот\Desislava-11d-9\Desislava-11d-9\obj\Debug\Desislava-11d-9.pdb
+C:\Users\viole\OneDrive\Работен плот\Desislava-11d-9\Desislava-11d-9\obj\Debug\Desislava_11d_9.Migrations.Greens.resources
+C:\Users\viole\OneDrive\Работен плот\Desislava-11d-9\Desislava-11d-9\obj\Debug\Desislava-11d-9.csproj.GenerateResource.cache
+C:\Users\viole\OneDrive\Работен плот\Desislava-11d-9\Desislava-11d-9\obj\Debug\Desislava_11d_9.View.Form1.resources
+C:\Users\STUDENTS-STEM-9\Downloads\FinalProjectORM-main\Desislava-11d-9\Desislava-11d-9\bin\Debug\Desislava-11d-9.exe.config
+C:\Users\STUDENTS-STEM-9\Downloads\FinalProjectORM-main\Desislava-11d-9\Desislava-11d-9\bin\Debug\Desislava-11d-9.exe
+C:\Users\STUDENTS-STEM-9\Downloads\FinalProjectORM-main\Desislava-11d-9\Desislava-11d-9\bin\Debug\Desislava-11d-9.pdb
+C:\Users\STUDENTS-STEM-9\Downloads\FinalProjectORM-main\Desislava-11d-9\Desislava-11d-9\bin\Debug\EntityFramework.dll
+C:\Users\STUDENTS-STEM-9\Downloads\FinalProjectORM-main\Desislava-11d-9\Desislava-11d-9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENTS-STEM-9\Downloads\FinalProjectORM-main\Desislava-11d-9\Desislava-11d-9\bin\Debug\EntityFramework.xml
+C:\Users\STUDENTS-STEM-9\Downloads\FinalProjectORM-main\Desislava-11d-9\Desislava-11d-9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENTS-STEM-9\Downloads\FinalProjectORM-main\Desislava-11d-9\Desislava-11d-9\obj\Debug\Desislava-11d-9.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-9\Downloads\FinalProjectORM-main\Desislava-11d-9\Desislava-11d-9\obj\Debug\Desislava-11d-9.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-9\Downloads\FinalProjectORM-main\Desislava-11d-9\Desislava-11d-9\obj\Debug\Desislava_11d_9.Migrations.Greens.resources
+C:\Users\STUDENTS-STEM-9\Downloads\FinalProjectORM-main\Desislava-11d-9\Desislava-11d-9\obj\Debug\Desislava_11d_9.View.Form1.resources
+C:\Users\STUDENTS-STEM-9\Downloads\FinalProjectORM-main\Desislava-11d-9\Desislava-11d-9\obj\Debug\Desislava-11d-9.csproj.GenerateResource.cache
+C:\Users\STUDENTS-STEM-9\Downloads\FinalProjectORM-main\Desislava-11d-9\Desislava-11d-9\obj\Debug\Desislava-11d-9.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-9\Downloads\FinalProjectORM-main\Desislava-11d-9\Desislava-11d-9\obj\Debug\Desislava-11d-9.csproj.CopyComplete
+C:\Users\STUDENTS-STEM-9\Downloads\FinalProjectORM-main\Desislava-11d-9\Desislava-11d-9\obj\Debug\Desislava-11d-9.exe
+C:\Users\STUDENTS-STEM-9\Downloads\FinalProjectORM-main\Desislava-11d-9\Desislava-11d-9\obj\Debug\Desislava-11d-9.pdb

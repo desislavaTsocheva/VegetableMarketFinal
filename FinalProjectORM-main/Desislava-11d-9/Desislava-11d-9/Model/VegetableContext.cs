@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data.Entity;
+using System.Linq;
+using System.Runtime.Remoting.Contexts;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Desislava_11d_9.Model
+{
+    public class VegetableContext: DbContext
+    {
+        public VegetableContext() : base("VegetablesContext") { }
+        public DbSet<Vegetable> Vegetables { get; set; }
+        public DbSet<VegetableType> VegetablesTypes { get; set; }
+    }
+}
